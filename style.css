@@ -662,7 +662,7 @@ footer a:hover {
 
 .small-img-group {
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
 }
 
 .small-img-col {
